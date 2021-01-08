@@ -1,6 +1,6 @@
 # Custombar
 - Plugin that displays a small bar above the hotbar
-- This is by no means fully finished plugin, it's all hardcoded and experimental
+- This is by no means fully finished plugin, it's all hardcoded and experimental but it works.
 - Color formatting is supported
 
 ## How to Install?
