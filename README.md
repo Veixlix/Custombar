@@ -7,4 +7,4 @@
 * Drop folder in plugin folder (if you have devtools) 
 * Restart the server
 
-![Image](../Ignaciox/Custombar/example.png?raw=true)
+![header image](https://github.com/Ignaciox/Custombar/blob/main/example.png)
