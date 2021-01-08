@@ -6,3 +6,5 @@
 ## How to Install?
 * Drop folder in plugin folder (if you have devtools) 
 * Restart the server
+
+![Image](../Ignaciox/Custombar/example.png?raw=true)
